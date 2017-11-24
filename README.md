@@ -5,4 +5,7 @@ For Quicker Upload, Git Clone, and more lite weight. The Source Code is Compress
 <h2><b>How To Compile on Linux Ubuntu: </b></h2>
 
 <h4>Step 1: Clone/Download the Source Code </h4>
-git clone https://github.com/ElectroCreator/Electro-ELC.git
+`git clone https://github.com/ElectroCreator/Electro-ELC.git`
+
+<h4>Step 2: Extract the Downloaded File</h4>
+`tar -xzvf Electro-ELC.tar.gz`
